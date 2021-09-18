@@ -1,0 +1,4 @@
+origintextpath : src/test/thesis/orig.txt
+copytextpath : src/test/thesis/orig_0.8_dis_1.txt
+answertextpath : src/result/test3
+论文重复率 : 92.97%

@@ -1,0 +1,4 @@
+origintextpath : src/test/thesis/orig.txt
+copytextpath : src/test/thesis/orig.txt
+answertextpath : src/result/selftest1
+论文重复率 : 100.00%
